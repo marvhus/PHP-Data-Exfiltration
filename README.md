@@ -1,5 +1,5 @@
 # PHP Data Exfiltration
-Solution for a Ctf challenge JohnHammond showed in a [video](https://youtu.be/XyEmZUpNVcI)  
+Solution for a Ctf challenge JohnHammond showed in a [video](https://www.youtube.com/watch?v=zK4VsJp3WGQ)  
 
 ## Start the php server
 First make sure you have php installed.  
